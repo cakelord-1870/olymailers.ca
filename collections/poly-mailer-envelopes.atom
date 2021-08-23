@@ -1,0 +1,563 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xml:lang="en-US" xmlns="http://www.w3.org/2005/Atom" xmlns:opensearch="http://a9.com/-/spec/opensearch/1.1/" xmlns:s="http://jadedpixel.com/-/spec/shopify">
+  <id>https://olymailers.ca/collections/all.atom</id>
+  <link rel="alternate" type="text/html" href="https://olymailers.ca/collections/all"/>
+  <link rel="self" type="application/atom+xml" href="https://olymailers.ca/collections/poly-mailer-envelopes.atom"/>
+  <title>OlyMailers.ca</title>
+  <updated>2016-09-07T03:11:00-07:00</updated>
+  <author>
+    <name>OlyMailers.ca</name>
+  </author>
+  <entry>
+    <id>https://olymailers.ca/products/7812286017</id>
+    <published>2016-09-07T03:11:00-07:00</published>
+    <updated>2016-09-07T03:11:00-07:00</updated>
+    <link rel="alternate" type="text/html" href="https://olymailers.ca/products/5x7-poly-mailers-shipping-envelopes-mailing-bags"/>
+    <title>#00 5x7 Poly Mailers Shipping Envelopes Mailing Bags</title>
+    <s:type>Shipping Envelopes</s:type>
+    <s:vendor>OlyMailers.ca</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1084/9694/products/PM_dad23eb0-6196-43e3-a5ae-0b6d20d9b4be.jpg?v=1473243600"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>OlyMailers.ca<br>
+        <strong>Type: </strong>Shipping Envelopes<br>
+        <strong>Price: </strong>
+            11.99 - 54.99
+            <a href="https://olymailers.ca/products/5x7-poly-mailers-shipping-envelopes-mailing-bags">(3 variants)</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Size: 5"x7"<br>Thickness: 2.5Mil<br>High Quality Self Sealing Plastic Courier Shipping Mailers.<br>Water, Tear &amp; Puncture Resistant.<br>High Strength Seams Allow for Over-stuffing.<br>White Outer Surface, Black Inner Lining Provides Confidentiality.<br>Lightweight Saves on Postage.<br>Suitable For Non-Fragile Items.</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Poly Mailers</s:tag>
+    <s:variant>
+      <id>https://olymailers.ca/products/7812286017</id>
+      <title>Bag of 100</title>
+      <s:price currency="CAD">11.99</s:price>
+      <s:sku>PM5x7-100pcs</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://olymailers.ca/products/7812286017</id>
+      <title>Box of 500</title>
+      <s:price currency="CAD">36.99</s:price>
+      <s:sku>PM5x7-500pcs</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://olymailers.ca/products/7812286017</id>
+      <title>Box of 1000</title>
+      <s:price currency="CAD">54.99</s:price>
+      <s:sku>PM5x7-1000pcs</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://olymailers.ca/products/7462670529</id>
+    <published>2016-08-17T03:13:00-07:00</published>
+    <updated>2016-08-17T03:13:00-07:00</updated>
+    <link rel="alternate" type="text/html" href="https://olymailers.ca/products/14-5x19-poly-mailers-shipping-envelopes-mailing-bags"/>
+    <title>#7 14.5x19 Poly Mailers Shipping Envelopes Mailing Bags</title>
+    <s:type>Shipping Envelopes</s:type>
+    <s:vendor>OlyMailers.ca</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1084/9694/products/PM_26eea1bd-c575-49c2-8dc1-07ae4d623f4e.jpg?v=1471428984"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>OlyMailers.ca<br>
+        <strong>Type: </strong>Shipping Envelopes<br>
+        <strong>Price: </strong>
+            19.99 - 159.99
+            <a href="https://olymailers.ca/products/14-5x19-poly-mailers-shipping-envelopes-mailing-bags">(5 variants)</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">Size: 14.5"x19" Thickness: 2.5Mil<br>High Quality Self Sealing Plastic Courier Shipping Mailers.<br>Water, Tear &amp; Puncture Resistant.<br>High Strength Seams Allow for Over-stuffing.<br>White Outer Surface, Black Inner Lining Provides Confidentiality.<br>Lightweight Saves on Postage.<br>Suitable For Non-Fragile Items.</td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Poly Mailers</s:tag>
+    <s:variant>
+      <id>https://olymailers.ca/products/7462670529</id>
+      <title>Bag of 25</title>
+      <s:price currency="CAD">19.99</s:price>
+      <s:sku>PM14.5x19-25pcs</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://olymailers.ca/products/7462670529</id>
+      <title>Bag of 100</title>
+      <s:price currency="CAD">32.99</s:price>
+      <s:sku>PM14.5x19-100pcs</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://olymailers.ca/products/7462670529</id>
+      <title>Bag of 200</title>
+      <s:price currency="CAD">49.99</s:price>
+      <s:sku>PM14.5x19-200pcs</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://olymailers.ca/products/7462670529</id>
+      <title>Box of 500</title>
+      <s:price currency="CAD">99.99</s:price>
+      <s:sku>PM14.5x19-500pcs</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://olymailers.ca/products/7462670529</id>
+      <title>Box of 1000</title>
+      <s:price currency="CAD">159.99</s:price>
+      <s:sku>PM14.5x19-1000pcs</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://olymailers.ca/products/8572077901</id>
+    <published>2016-08-17T03:07:00-07:00</published>
+    <updated>2016-08-17T03:07:00-07:00</updated>
+    <link rel="alternate" type="text/html" href="https://olymailers.ca/products/9-24x24-poly-mailers-shipping-envelopes-mailing-bags"/>
+    <title>#9 24x24 Poly Mailers Shipping Envelopes Mailing Bags</title>
+    <s:type>Shipping Envelopes</s:type>
+    <s:vendor>OlyMailers.ca</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1084/9694/products/PM_54e14d14-aee4-4c22-a475-e5aac2cc1755.jpg?v=1481244116"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>OlyMailers.ca<br>
+        <strong>Type: </strong>Shipping Envelopes<br>
+        <strong>Price: </strong>
+            38.99 - 199.99
+            <a href="https://olymailers.ca/products/9-24x24-poly-mailers-shipping-envelopes-mailing-bags">(4 variants)</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">Size: 24"x24" Thickness: 2.5Mil<br>High Quality Self Sealing Plastic Courier Shipping Mailers.<br>Water, Tear &amp; Puncture Resistant.<br>High Strength Seams Allow for Over-stuffing.<br>White Outer Surface, Black Inner Lining Provides Confidentiality.<br>Lightweight Saves on Postage.<br>Suitable For Non-Fragile Items.</td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Poly Mailers</s:tag>
+    <s:variant>
+      <id>https://olymailers.ca/products/8572077901</id>
+      <title>Bag of 50</title>
+      <s:price currency="CAD">38.99</s:price>
+      <s:sku>PM24x24-50pcs</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://olymailers.ca/products/8572077901</id>
+      <title>Bag of 100</title>
+      <s:price currency="CAD">54.99</s:price>
+      <s:sku>PM24x24-100pcs</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://olymailers.ca/products/8572077901</id>
+      <title>Box of 300</title>
+      <s:price currency="CAD">119.99</s:price>
+      <s:sku>PM24x24-300pcs</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://olymailers.ca/products/8572077901</id>
+      <title>Box of 600</title>
+      <s:price currency="CAD">199.99</s:price>
+      <s:sku>PM24x24-600pcs</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://olymailers.ca/products/8572038797</id>
+    <published>2016-08-17T03:07:00-07:00</published>
+    <updated>2016-08-17T03:07:00-07:00</updated>
+    <link rel="alternate" type="text/html" href="https://olymailers.ca/products/8-19x24-poly-mailers-shipping-envelopes-mailing-bags"/>
+    <title>#8 19x24 Poly Mailers Shipping Envelopes Mailing Bags</title>
+    <s:type>Shipping Envelopes</s:type>
+    <s:vendor>OlyMailers.ca</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1084/9694/products/PM_47fbd75b-d59a-40df-86ad-e2849a7fce4a.jpg?v=1481243804"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>OlyMailers.ca<br>
+        <strong>Type: </strong>Shipping Envelopes<br>
+        <strong>Price: </strong>
+            32.99 - 179.99
+            <a href="https://olymailers.ca/products/8-19x24-poly-mailers-shipping-envelopes-mailing-bags">(4 variants)</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">Size: 19"x24" Thickness: 2.5Mil<br>High Quality Self Sealing Plastic Courier Shipping Mailers.<br>Water, Tear &amp; Puncture Resistant.<br>High Strength Seams Allow for Over-stuffing.<br>White Outer Surface, Black Inner Lining Provides Confidentiality.<br>Lightweight Saves on Postage.<br>Suitable For Non-Fragile Items.</td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Poly Mailers</s:tag>
+    <s:variant>
+      <id>https://olymailers.ca/products/8572038797</id>
+      <title>Bag of 50</title>
+      <s:price currency="CAD">32.99</s:price>
+      <s:sku>PM19x24-50pcs</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://olymailers.ca/products/8572038797</id>
+      <title>Bag of 100</title>
+      <s:price currency="CAD">49.99</s:price>
+      <s:sku>PM19x24-100pcs</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://olymailers.ca/products/8572038797</id>
+      <title>Box of 300</title>
+      <s:price currency="CAD">109.99</s:price>
+      <s:sku>PM19x24-300pcs</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://olymailers.ca/products/8572038797</id>
+      <title>Box of 600</title>
+      <s:price currency="CAD">179.99</s:price>
+      <s:sku>PM19x24-600pcs</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://olymailers.ca/products/8571835597</id>
+    <published>2016-08-17T03:07:00-07:00</published>
+    <updated>2016-08-17T03:07:00-07:00</updated>
+    <link rel="alternate" type="text/html" href="https://olymailers.ca/products/5-12x15-5-poly-mailers-shipping-envelopes-mailing-bags"/>
+    <title>#5 12x15.5 Poly Mailers Shipping Envelopes Mailing Bags</title>
+    <s:type>Shipping Envelopes</s:type>
+    <s:vendor>OlyMailers.ca</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1084/9694/products/PM_1e06d80b-59f6-4c32-9bf4-a29d59ffa79f.jpg?v=1481242109"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>OlyMailers.ca<br>
+        <strong>Type: </strong>Shipping Envelopes<br>
+        <strong>Price: </strong>
+            13.99 - 129.99
+            <a href="https://olymailers.ca/products/5-12x15-5-poly-mailers-shipping-envelopes-mailing-bags">(4 variants)</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">Size: 12"x15.5" Thickness: 2.5Mil<br>High Quality Self Sealing Plastic Courier Shipping Mailers.<br>Water, Tear &amp; Puncture Resistant.<br>High Strength Seams Allow for Over-stuffing.<br>White Outer Surface, Black Inner Lining Provides Confidentiality.<br>Lightweight Saves on Postage.<br>Suitable For Non-Fragile Items.</td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Poly Mailers</s:tag>
+    <s:variant>
+      <id>https://olymailers.ca/products/8571835597</id>
+      <title>Bag of 25</title>
+      <s:price currency="CAD">13.99</s:price>
+      <s:sku>PM12x15.5-25pcs</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://olymailers.ca/products/8571835597</id>
+      <title>Bag of 100</title>
+      <s:price currency="CAD">28.99</s:price>
+      <s:sku>PM12x15.5-100pcs</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://olymailers.ca/products/8571835597</id>
+      <title>Box of 500</title>
+      <s:price currency="CAD">79.99</s:price>
+      <s:sku>PM12x15.5-500pcs</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://olymailers.ca/products/8571835597</id>
+      <title>Box of 1000</title>
+      <s:price currency="CAD">129.99</s:price>
+      <s:sku>PM12x15.5-1000pcs</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://olymailers.ca/products/7462631041</id>
+    <published>2016-08-17T03:07:00-07:00</published>
+    <updated>2016-08-17T03:07:00-07:00</updated>
+    <link rel="alternate" type="text/html" href="https://olymailers.ca/products/10x13-poly-mailers-shipping-envelopes-mailing-bags"/>
+    <title>#4 10x13 Poly Mailers Shipping Envelopes Mailing Bags</title>
+    <s:type>Shipping Envelopes</s:type>
+    <s:vendor>OlyMailers.ca</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1084/9694/products/PM.jpg?v=1471428750"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>OlyMailers.ca<br>
+        <strong>Type: </strong>Shipping Envelopes<br>
+        <strong>Price: </strong>
+            10.99 - 169.99
+            <a href="https://olymailers.ca/products/10x13-poly-mailers-shipping-envelopes-mailing-bags">(6 variants)</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">Size: 10"x13" Thickness: 2.5Mil<br>High Quality Self Sealing Plastic Courier Shipping Mailers.<br>Water, Tear &amp; Puncture Resistant.<br>High Strength Seams Allow for Over-stuffing.<br>White Outer Surface, Black Inner Lining Provides Confidentiality.<br>Lightweight Saves on Postage.<br>Suitable For Non-Fragile Items.</td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Poly Mailers</s:tag>
+    <s:variant>
+      <id>https://olymailers.ca/products/7462631041</id>
+      <title>Bag of 25</title>
+      <s:price currency="CAD">10.99</s:price>
+      <s:sku>PM10x13-25pcs</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://olymailers.ca/products/7462631041</id>
+      <title>Bag of 100</title>
+      <s:price currency="CAD">30.99</s:price>
+      <s:sku>PM10x13-100pcs</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://olymailers.ca/products/7462631041</id>
+      <title>Bag of 200</title>
+      <s:price currency="CAD">40.99</s:price>
+      <s:sku>PM10x13-200pcs</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://olymailers.ca/products/7462631041</id>
+      <title>Box of 500</title>
+      <s:price currency="CAD">65.99</s:price>
+      <s:sku>PM10x13-500pcs</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://olymailers.ca/products/7462631041</id>
+      <title>Box of 1000</title>
+      <s:price currency="CAD">99.99</s:price>
+      <s:sku>PM10x13-1000pcs</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://olymailers.ca/products/7462631041</id>
+      <title>Box of 2000</title>
+      <s:price currency="CAD">169.99</s:price>
+      <s:sku>PM10x13-2000pcs</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://olymailers.ca/products/3648734401</id>
+    <published>2015-12-05T21:15:00-08:00</published>
+    <updated>2015-12-05T21:15:00-08:00</updated>
+    <link rel="alternate" type="text/html" href="https://olymailers.ca/products/9x12-poly-mailers-bags-shipping-envelopes-1000-pcs"/>
+    <title>#3 9x12 Poly Mailers Shipping Envelopes Mailing Bags</title>
+    <s:type>Shipping Envelopes</s:type>
+    <s:vendor>OlyMailers.ca</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1084/9694/products/poly_mailer_jinze_877a7bfb-5742-4e4b-8abe-4013cf7621c5.jpg?v=1449379001"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>OlyMailers.ca<br>
+        <strong>Type: </strong>Shipping Envelopes<br>
+        <strong>Price: </strong>
+            9.99 - 159.99
+            <a href="https://olymailers.ca/products/9x12-poly-mailers-bags-shipping-envelopes-1000-pcs">(6 variants)</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">Size: 9"x12" Thickness: 2.5Mil<br>High Quality Self Sealing Plastic Courier Shipping Mailers.<br>Water, Tear &amp; Puncture Resistant.<br>High Strength Seams Allow for Over-stuffing.<br>White Outer Surface, Black Inner Lining Provides Confidentiality.<br>Lightweight Saves on Postage.<br>Suitable For Non-Fragile Items.</td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Poly Mailers</s:tag>
+    <s:variant>
+      <id>https://olymailers.ca/products/3648734401</id>
+      <title>Bag of 25</title>
+      <s:price currency="CAD">9.99</s:price>
+      <s:sku>PM9x12-25pcs</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://olymailers.ca/products/3648734401</id>
+      <title>Bag of 100</title>
+      <s:price currency="CAD">29.99</s:price>
+      <s:sku>PM9x12-100pcs</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://olymailers.ca/products/3648734401</id>
+      <title>Bag of 200</title>
+      <s:price currency="CAD">39.99</s:price>
+      <s:sku>PM9x12-200pcs</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://olymailers.ca/products/3648734401</id>
+      <title>Box of 500</title>
+      <s:price currency="CAD">59.99</s:price>
+      <s:sku>PM9x12-500pcs</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://olymailers.ca/products/3648734401</id>
+      <title>Box of 1000</title>
+      <s:price currency="CAD">95.99</s:price>
+      <s:sku>PM9x12-1000pcs</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://olymailers.ca/products/3648734401</id>
+      <title>Box of 2000</title>
+      <s:price currency="CAD">159.99</s:price>
+      <s:sku>PM9x12-2000pcs</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://olymailers.ca/products/8571675789</id>
+    <published>2015-12-05T01:44:00-08:00</published>
+    <updated>2015-12-05T01:44:00-08:00</updated>
+    <link rel="alternate" type="text/html" href="https://olymailers.ca/products/2-7-5x10-5-poly-mailers-shipping-envelopes-mailing-bags"/>
+    <title>#2 7.5x10.5 Poly Mailers Shipping Envelopes Mailing Bags</title>
+    <s:type>Shipping Envelopes</s:type>
+    <s:vendor>OlyMailers.ca</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1084/9694/products/poly_mailer_jinze_50d6e718-a1b2-4798-ab58-2da556329b4e.jpg?v=1481240441"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>OlyMailers.ca<br>
+        <strong>Type: </strong>Shipping Envelopes<br>
+        <strong>Price: </strong>
+            26.99 - 72.99
+            <a href="https://olymailers.ca/products/2-7-5x10-5-poly-mailers-shipping-envelopes-mailing-bags">(3 variants)</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">Size: 7.5"x10.5" Thickness: 2.5Mil<br>High Quality Self Sealing Plastic Courier Shipping Mailers.<br>Water, Tear &amp; Puncture Resistant.<br>High Strength Seams Allow for Over-stuffing.<br>White Outer Surface, Black Inner Lining Provides Confidentiality.<br>Lightweight Saves on Postage.<br>Suitable For Non-Fragile Items.</td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Poly Mailers</s:tag>
+    <s:variant>
+      <id>https://olymailers.ca/products/8571675789</id>
+      <title>Bag of 100</title>
+      <s:price currency="CAD">26.99</s:price>
+      <s:sku>PM7.5x10.5-100pcs</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://olymailers.ca/products/8571675789</id>
+      <title>Box of 500</title>
+      <s:price currency="CAD">45.99</s:price>
+      <s:sku>PM7.5x10.5-500pcs</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://olymailers.ca/products/8571675789</id>
+      <title>Box of 1000</title>
+      <s:price currency="CAD">72.99</s:price>
+      <s:sku>PM7.5x10.5-1000pcs</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://olymailers.ca/products/3643610625</id>
+    <published>2015-12-05T01:44:00-08:00</published>
+    <updated>2015-12-05T01:44:00-08:00</updated>
+    <link rel="alternate" type="text/html" href="https://olymailers.ca/products/6-x-9-poly-mailer-envelopes-1000"/>
+    <title>#1 6x9 Poly Mailers Shipping Envelopes Mailing Bags</title>
+    <s:type>Shipping Envelopes</s:type>
+    <s:vendor>OlyMailers.ca</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1084/9694/products/poly_mailer_jinze.jpg?v=1449308759"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>OlyMailers.ca<br>
+        <strong>Type: </strong>Shipping Envelopes<br>
+        <strong>Price: </strong>
+            8.99 - 59.99
+            <a href="https://olymailers.ca/products/6-x-9-poly-mailer-envelopes-1000">(4 variants)</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">Size: 6"x9" Thickness: 2.5Mil<br>High Quality Self Sealing Plastic Courier Shipping Mailers.<br>Water, Tear &amp; Puncture Resistant.<br>High Strength Seams Allow for Over-stuffing.<br>White Outer Surface, Black Inner Lining Provides Confidentiality.<br>Lightweight Saves on Postage.<br>Suitable For Non-Fragile Items.</td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Poly Mailers</s:tag>
+    <s:variant>
+      <id>https://olymailers.ca/products/3643610625</id>
+      <title>Bag of 25</title>
+      <s:price currency="CAD">8.99</s:price>
+      <s:sku>PM6x9-25pcs</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://olymailers.ca/products/3643610625</id>
+      <title>Bag of 100</title>
+      <s:price currency="CAD">14.99</s:price>
+      <s:sku>PM6x9-100pcs</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://olymailers.ca/products/3643610625</id>
+      <title>Box of 500</title>
+      <s:price currency="CAD">38.99</s:price>
+      <s:sku>PM6x9-500pcs</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://olymailers.ca/products/3643610625</id>
+      <title>Box of 1000</title>
+      <s:price currency="CAD">59.99</s:price>
+      <s:sku>PM6x9-1000pcs</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+</feed>

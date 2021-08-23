@@ -1,0 +1,152 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xml:lang="en-US" xmlns="http://www.w3.org/2005/Atom" xmlns:opensearch="http://a9.com/-/spec/opensearch/1.1/" xmlns:s="http://jadedpixel.com/-/spec/shopify">
+  <id>https://olymailers.ca/collections/all.atom</id>
+  <link rel="alternate" type="text/html" href="https://olymailers.ca/collections/all"/>
+  <link rel="self" type="application/atom+xml" href="https://olymailers.ca/collections/shipping-labels.atom"/>
+  <title>OlyMailers.ca</title>
+  <updated>2016-09-02T20:29:00-07:00</updated>
+  <author>
+    <name>OlyMailers.ca</name>
+  </author>
+  <entry>
+    <id>https://olymailers.ca/products/7752278593</id>
+    <published>2016-09-02T20:29:00-07:00</published>
+    <updated>2016-09-02T20:29:00-07:00</updated>
+    <link rel="alternate" type="text/html" href="https://olymailers.ca/products/4x6-direct-thermal-shipping-labels-for-dymo-printers-1744907"/>
+    <title>4x6&quot; Thermal Shipping Labels for Dymo 4XL Printers 1744907</title>
+    <s:type>Shipping Labels</s:type>
+    <s:vendor>OlyMailers.ca</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1084/9694/products/shippinglabel_302f444e-1d28-41d0-9ab3-4bf2e70b03f3.jpg?v=1472873774"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>OlyMailers.ca<br>
+        <strong>Type: </strong>Shipping Labels<br>
+        <strong>Price: </strong>
+            21.99 - 219.99
+            <a href="https://olymailers.ca/products/4x6-direct-thermal-shipping-labels-for-dymo-printers-1744907">(6 variants)</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>220 labels per roll<br>4" x 6"<br>1 inch core<br>There is a hole between labels for printer detection.<br>Labels adhere well to corrugated boxes and mailers<br><br>Compatible with: <br>Dymo 4XL LabelWriter 1744907</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>4x6</s:tag>
+    <s:tag>Shipping Labels</s:tag>
+    <s:variant>
+      <id>https://olymailers.ca/products/7752278593</id>
+      <title>1 Roll</title>
+      <s:price currency="CAD">21.99</s:price>
+      <s:sku>dymo-1roll</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://olymailers.ca/products/7752278593</id>
+      <title>5 Rolls</title>
+      <s:price currency="CAD">45.99</s:price>
+      <s:sku>dymo-5roll</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://olymailers.ca/products/7752278593</id>
+      <title>Box of 10</title>
+      <s:price currency="CAD">75.99</s:price>
+      <s:sku>dymo-10roll</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://olymailers.ca/products/7752278593</id>
+      <title>Box of 15</title>
+      <s:price currency="CAD">105.99</s:price>
+      <s:sku>dymo-15roll</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://olymailers.ca/products/7752278593</id>
+      <title>Box of 20</title>
+      <s:price currency="CAD">125.99</s:price>
+      <s:sku>dymo-20roll</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://olymailers.ca/products/7752278593</id>
+      <title>Box of 40</title>
+      <s:price currency="CAD">219.99</s:price>
+      <s:sku>dymo-40roll</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://olymailers.ca/products/7752099073</id>
+    <published>2016-09-02T20:21:00-07:00</published>
+    <updated>2016-09-02T20:21:00-07:00</updated>
+    <link rel="alternate" type="text/html" href="https://olymailers.ca/products/4x6-direct-thermal-shipping-labels-for-zebra-printers"/>
+    <title>4x6&quot; Direct Thermal Shipping Labels for Zebra Printers</title>
+    <s:type>Shipping Labels</s:type>
+    <s:vendor>OlyMailers.ca</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1084/9694/products/shippinglabel.jpg?v=1472872955"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>OlyMailers.ca<br>
+        <strong>Type: </strong>Shipping Labels<br>
+        <strong>Price: </strong>
+            20.99 - 189.99
+            <a href="https://olymailers.ca/products/4x6-direct-thermal-shipping-labels-for-zebra-printers">(5 variants)</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">250 labels per roll<br>4" x 6"<br>1 inch core<br>Labels adhere well to corrugated boxes and mailers<br><br>Compatible with: <br>Zebra LP 2844, GX420t, GX420d, GX430t, GK420t, GK420d, ZP450, ZP500, ZD500, ZP505, GK420D, GX420D, LP2844,LP2844-Z Eltron<br>Samsung Bixolon SRP 770II</td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>4x6</s:tag>
+    <s:tag>Shipping Labels</s:tag>
+    <s:variant>
+      <id>https://olymailers.ca/products/7752099073</id>
+      <title>1 Roll</title>
+      <s:price currency="CAD">20.99</s:price>
+      <s:sku>zebra-1roll</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://olymailers.ca/products/7752099073</id>
+      <title>5 Rolls</title>
+      <s:price currency="CAD">48.99</s:price>
+      <s:sku>zebra-5roll</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://olymailers.ca/products/7752099073</id>
+      <title>Box of 10</title>
+      <s:price currency="CAD">69.99</s:price>
+      <s:sku>zebra-10roll</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://olymailers.ca/products/7752099073</id>
+      <title>Box of 20</title>
+      <s:price currency="CAD">105.99</s:price>
+      <s:sku>zebra-20roll</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://olymailers.ca/products/7752099073</id>
+      <title>Box of 40</title>
+      <s:price currency="CAD">189.99</s:price>
+      <s:sku>zebra-40roll</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+</feed>
